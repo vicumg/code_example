@@ -1,0 +1,12 @@
+/.vscode
+/.idea
+/data/*
+/logs/*
+.DS_Store
+/www/image/*
+/www/system/logs/*
+/www/system/cache/*
+/www/http/images/*
+/www/backup.zip
+/www/http/uploads_images/*
+/www/http/include/vendor/
